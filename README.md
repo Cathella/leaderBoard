@@ -6,8 +6,8 @@
 
 ### Milestone 1:
 - Setup webpack
-- Created a plain HTML markup with minimum styling
-- Added JavaScript modules with import and export
+- Write plain HTML markup with minimum styling
+- Import and export JavaScript modules.
 
 ## Built With
 

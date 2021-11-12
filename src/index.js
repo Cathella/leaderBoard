@@ -1,3 +1,6 @@
 import './style.css';
 
-console.log("hey there");
+import leaderboard from './scores';
+
+leaderboard();
+

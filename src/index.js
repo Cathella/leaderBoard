@@ -1,5 +1,5 @@
 import './style.css';
-import scores from './scores';
+import scores from './scores.js';
 
 const leaderboard = () => {
   let newScore = '';
@@ -12,6 +12,6 @@ const leaderboard = () => {
   });
 
   document.querySelector('.board').innerHTML = newScore;
-}
+};
 
 leaderboard();

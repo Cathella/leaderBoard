@@ -14,7 +14,7 @@ li {
   display: flex;
   flex-direction: row;
   align-items: center;
-  justify-content: space-between;
+  /* justify-content: space-between; */
   background-color: #fff;
   margin: 0;
   padding: .2em .5em;

@@ -25,17 +25,4 @@ const scores = [
   },
 ];
 
-const leaderboard = () => {
-  let newScore = '';
-  scores.forEach((leader) => {
-    newScore += `
-    <li>
-      <span>${leader.name}</span>
-      <span>${leader.score}</span>
-    </li>`;
-  });
-
-  document.querySelector('.board').innerHTML = newScore;
-}
-
-export default leaderboard;
+export default scores;

@@ -15,6 +15,9 @@
 - Implement the form "Submit" button (sending data to the API).
 - Use async and await JavaScript features to consume the API.
 
+### Milestone 3:
+- Improve the general look and feel of the application using CSS and bootstrap
+
 ## Built With
 
 - HTML, CSS & JS

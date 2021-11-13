@@ -1,3 +1,5 @@
+import './style.css';
+
 const gameID = '31OYXj0MHKvWiIdWxnyl';
 const URL = `https://us-central1-js-capstone-backend.cloudfunctions.net/api/games/${gameID}/scores`;
 

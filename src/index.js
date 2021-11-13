@@ -68,4 +68,4 @@ refreshButton.addEventListener('click', handleGetGames);
 submitButton.addEventListener('click', handlePostScores);
 document.addEventListener('DOMContentLoaded', () => {
   handleGetGames();
-}); 
+});
